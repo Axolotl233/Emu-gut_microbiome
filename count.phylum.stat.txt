@@ -1,0 +1,7 @@
+clade	IN	N
+Actinobacteria	58128	44163
+Bacteroidetes	28964010	22941398
+Deferribacteres	189342	114469
+Firmicutes	12866907	7223770
+Proteobacteria	3610089	2781787
+Verrucomicrobia	3048	741
