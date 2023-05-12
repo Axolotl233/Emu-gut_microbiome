@@ -1,6 +1,6 @@
 # Emu-gut_microbiome
 
-this respositories contain datasets and script used for Emu-gut_microbiome
+this respositories contain datasets and script used for Emu-gut_microbiome project
 
 `analysis.R` : code for analysis in R v4.2.0
 
