@@ -2,7 +2,7 @@
 
 this respositories contain datasets and script used for Emu-gut_microbiome project
 
-`analysis.R` : code for analysis in R v4.2.0
+`analysis.R` : code for analysis in R v4.2.0 (package version were annotated)
 
 
 `count_file.txt` : microbiota reads count matrix create by metaphlan3.1.0 
